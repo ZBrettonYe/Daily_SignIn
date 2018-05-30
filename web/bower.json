@@ -1,11 +1,11 @@
 {
-  "name": "qiandao",
-  "version": "0.0.0",
+  "name": "绅士签到",
+  "version": "0.0.1.a",
   "authors": [
-    "binux <roy@binux.me>"
+    "兔姬菌 <monkeyblacktech97@gmail.com> | binux <roy@binux.me>"
   ],
-  "description": "qiandao.today",
-  "homepage": "http://qiandao.today/",
+  "description": "绅士签到",
+  "homepage": "http://qd.hentaiworld.cc/",
   "private": true,
   "ignore": [],
   "dependencies": {
