@@ -1,11 +1,11 @@
 {
   "name": "绅士签到",
-  "version": "0.0.1.a",
+  "version": "0.0.1",
   "authors": [
     "兔姬菌 <monkeyblacktech97@gmail.com> | binux <roy@binux.me>"
   ],
   "description": "绅士签到",
-  "homepage": "http://qd.hentaiworld.cc/",
+  "homepage": "https://qd.otakuyun.com/",
   "private": true,
   "ignore": [],
   "dependencies": {
