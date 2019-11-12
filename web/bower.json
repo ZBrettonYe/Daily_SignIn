@@ -1,11 +1,11 @@
 {
-  "name": "ÉğÊ¿Ç©µ½",
+  "name": "ç»…å£«äº‘ç­¾",
   "version": "0.0.1",
   "authors": [
-    "ÍÃ¼§¾ú <monkeyblacktech97@gmail.com> | binux <roy@binux.me>"
+    "å…”å§¬èŒ<monkeyblacktech97@gmail.com> | binux <roy@binux.me>"
   ],
-  "description": "ÉğÊ¿Ç©µ½",
-  "homepage": "https://qd.otakuyun.com/",
+  "description": "ç»…å£«äº‘ç­¾",
+  "homepage": "https://qd.otakuyun.net/",
   "private": true,
   "ignore": [],
   "dependencies": {
